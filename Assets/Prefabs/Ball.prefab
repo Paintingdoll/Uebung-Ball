@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: -7720347631924251062}
   m_Layer: 0
   m_Name: Ball
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -77,8 +77,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 7a7a3000b7561934d80fd78e63129997, type: 3}
-  m_Color: {r: 0.54296356, g: 0.34349412, b: 0.7830189, a: 1}
+  m_Sprite: {fileID: 21300000, guid: fd7cc75972442bf4db966e0459b2ab5c, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -122,9 +122,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.026581228, y: -0.040701628}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 0.5672829
 --- !u!114 &-4750012542730276599
 MonoBehaviour:
   m_ObjectHideFlags: 0
